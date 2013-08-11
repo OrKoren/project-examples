@@ -86,7 +86,7 @@
                                 artifactory.deploy.or2 = or3
                        </deployProperties>  
                        <resolver>
-                                 <contextUrl>http://10.0.0.143/artifactory/remote-repos</contextUrl>
+                                 <contextUrl>http://oss.jfrog.org/artifactory/remote-repos</contextUrl>
                                  <maven>true</maven>
                                  <name>demo</name>
                                  <password>admin</password>
