@@ -79,7 +79,7 @@
                            <exportFile>/home/ork/file</exportFile>
                            <timeout>1000</timeout>
               </artifactory>
-              <propertiesFile>/home/ork/baruch/project-examples/maven-example/buildInfo.properties</propertiesFile>
+              
               <pomPropertiesPriority>true</pomPropertiesPriority>
                        <deployProperties>
                                 artifactory.deploy.or = or2
